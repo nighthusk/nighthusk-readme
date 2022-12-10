@@ -3,6 +3,7 @@
   
   𝐼'𝓂 𝒦𝒾𝓉𝓈𝓊𝓃𝑒
 </h1>
+<p>I make stuff when i wanted to</p>
 
 <h3>About me</h3>
 <p>• 💼 Jobless :(</p>
