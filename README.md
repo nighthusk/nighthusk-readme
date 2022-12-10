@@ -5,7 +5,7 @@
 </h1>
 
 <h3>About me</h3>
-<p>• 💼 Jobless :(<br>• 💙 I love writing in Python<br>• 🎉 Im new here, and i look forward to having fun on github </p>
+<p>• 💼 Jobless :(<br>• 💙 I love writing in Python<br>• 🎉 Im new here, and i look forward to help people on github </p>
 
 <h2>Languages i use</h2>
 
