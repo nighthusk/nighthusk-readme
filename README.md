@@ -6,8 +6,8 @@
 <p>I make stuff when i wanted to</p>
 
 <h3>About me</h3>
-<p>• 💼 Jobless :(</p>
-<p>• 💙 I love writing in Python</p>
+<p>• 💼 Backend developer at Microsoft (delusional)</p>
+<p>• 💙 I love writing in python (who doesn't?)</p>
 <p>• 🎉 Im new here, and i look forward to help people on github</p>
 
 <h2>Languages i use</h2>
