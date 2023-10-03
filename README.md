@@ -1,7 +1,7 @@
 <h1 align="center">
            <img src="https://i.ibb.co/Y7pJtPf/123.png" />
   
-  𝐼'𝓂 𝒦𝒾𝓉𝓈𝓊𝓃𝑒
+  𝓘'𝓶 𝓝𝓲𝓴𝔂𝓾𝓾
 </h1>
 <p>I make stuff when i wanted to</p>
 
