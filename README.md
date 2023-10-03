@@ -3,16 +3,16 @@
   
   𝓘'𝓶 𝓝𝓲𝓴𝔂𝓾𝓾
 </h1>
-<p>I make stuff when i wanted to</p>
+<p>I make stuff when I wanted to</p>
 
 <h3>About me</h3>
 <p>• 💼 Backend developer at Microsoft (delusional)</p>
 <p>• 💙 I love writing in python (who doesn't?)</p>
-<p>• 🎉 Im new here, and i look forward to help people on github</p>
+<p>• 🎉 I'm new here, and I look forward to help people on github</p>
 
-<h2>Languages i use</h2>
+<h2>Languages/tools I use</h2>
 
-![ALT text](https://i.ibb.co/pzW0qNs/code2.png)
+![ALT text](https://www.linkpicture.com/q/codingtools.png)
 
 <h2>User stats</h2>
 
