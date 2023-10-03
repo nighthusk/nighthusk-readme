@@ -16,5 +16,5 @@
 
 <h2>User stats</h2>
 
-![ALT text](https://github-readme-stats.vercel.app/api?username=creamy-latte&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creamy-latte&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![ALT text](https://github-readme-stats.vercel.app/api?username=nnikyuu&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnikyuu&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
