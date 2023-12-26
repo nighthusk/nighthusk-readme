@@ -2,7 +2,7 @@
 <h3>About me</h2>
 <p>High school student and an open source app user
 
-I rarely contribute since i'm just here for open source apps :3</p>
+I rarely contribute since i'm mostly here for open source apps :3</p>
 <h2>🎉 I'm new here, and I look forward to interact with other people</h2>
 
 <h3>📈 Stats</h3>
