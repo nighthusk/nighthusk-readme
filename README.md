@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Kyuu!</h1>
 <h3>About me</h2>
-<p>High school student and an open source app user
+<p>High school student and an open source app enjoyer
 
 I rarely contribute since i'm mostly here for open source apps :3</p>
 <h2>🎉 I'm new here, and I look forward to interact with other people</h2>
