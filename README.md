@@ -4,7 +4,7 @@ High school student, translator, and a proofreader
 <br>You won't see me online here often, I'm mostly active in Weblate and Crowdin</br>
 <h3>Contacts 📭</h3>
 • nighthusk4@gmail.com (email)
-<br>• nnikyuu (discord)</br>
+<br>• kecupmanis (discord)</br>
 <h2>I look forward to interact with other people 💙</h2>
 
 <h3>📈 Stats</h3>
