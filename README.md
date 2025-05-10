@@ -1,6 +1,6 @@
-<h1>👋 Hi, I'm Kyuu!</h1>
+<h1>👋 Hi, I'm NightHusk!</h1>
 <h3>About me 👥</h3>
-High school student, translator, and a proofreader
+University student, translator, and a proofreader
 <br>You won't see me online here often, I'm mostly active in Weblate and Crowdin</br>
 <h3>Contacts 📭</h3>
 • nighthusk4@gmail.com (email)
